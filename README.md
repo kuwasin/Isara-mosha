@@ -1,3 +1,5 @@
 # Isara-mosha
 
-ISARAの模写になります
+ISARAというサイトの模写になります
+
+本物はこちらから　https://isara.life/
